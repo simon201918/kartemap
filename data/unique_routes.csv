@@ -1,0 +1,492 @@
+Atlanta,Minneapolis,1447.0
+Minneapolis,Atlanta,1447.0
+Atlanta,Charlotte,364.0
+Atlanta,Miami,955.0
+Atlanta,Chicago,963.0
+Atlanta,Philadelphia,1084.0
+Atlanta,Phoenix,2558.0
+Boston,Charlotte,1171.0
+Boston,Washington,653.0
+Boston,New York,307.0
+Boston,Los Angeles,4194.0
+Boston,Miami,2026.0
+Boston,Chicago,1384.0
+Boston,Portland,4083.0
+Boston,Philadelphia,435.0
+Boston,Phoenix,3715.0
+Boston,San Diego,4163.0
+Boston,Seattle,4015.0
+Baltimore,Charlotte,594.0
+Baltimore,New York,275.0
+Baltimore,Miami,1531.0
+Baltimore,Chicago,998.0
+Baltimore,Philadelphia,146.0
+Baltimore,Phoenix,3240.0
+Charlotte,Atlanta,364.0
+Charlotte,Boston,1171.0
+Charlotte,Baltimore,594.0
+Charlotte,Washington,525.0
+Charlotte,Denver,2153.0
+Charlotte,Detroit,811.0
+Charlotte,New York,865.0
+Charlotte,Houston,1486.0
+Charlotte,Los Angeles,3416.0
+Charlotte,Orlando,749.0
+Charlotte,Miami,1039.0
+Charlotte,Minneapolis,1497.0
+Charlotte,Chicago,961.0
+Charlotte,Portland,3672.0
+Charlotte,Philadelphia,738.0
+Charlotte,Phoenix,2866.0
+Charlotte,San Diego,3339.0
+Charlotte,San Antonio,1758.0
+Charlotte,Seattle,3668.0
+Charlotte,San Francisco,3695.0
+Charlotte,St. Louis,926.0
+Charlotte,Tampa,823.0
+Washington,Boston,653.0
+Washington,Charlotte,525.0
+Washington,Detroit,635.0
+Washington,New York,347.0
+Washington,Los Angeles,3695.0
+Washington,Orlando,1218.0
+Washington,Miami,1478.0
+Washington,Minneapolis,1480.0
+Washington,Chicago,957.0
+Washington,Portland,3764.0
+Washington,Philadelphia,218.0
+Washington,Phoenix,3179.0
+Washington,San Diego,3642.0
+Washington,St. Louis,1139.0
+Washington,Tampa,1312.0
+Denver,Charlotte,2153.0
+Denver,Los Angeles,1371.0
+Denver,Miami,2726.0
+Denver,Chicago,1445.0
+Denver,Philadelphia,2513.0
+Denver,Phoenix,973.0
+Denver,Seattle,1657.0
+Detroit,Charlotte,811.0
+Detroit,Washington,635.0
+Detroit,New York,800.0
+Detroit,Miami,1841.0
+Detroit,Chicago,372.0
+Detroit,Philadelphia,726.0
+Detroit,Phoenix,2709.0
+New York,Charlotte,865.0
+New York,Miami,1755.0
+New York,Chicago,1166.0
+New York,Philadelphia,129.0
+New York,Phoenix,3465.0
+New York,Seattle,3881.0
+Houston,Charlotte,1486.0
+Houston,Los Angeles,2219.0
+Houston,Miami,1535.0
+Houston,Chicago,1518.0
+Houston,Philadelphia,2163.0
+Houston,Phoenix,1628.0
+New York,Boston,307.0
+New York,Baltimore,275.0
+New York,Washington,347.0
+New York,Los Angeles,3962.0
+New York,Orlando,1517.0
+New York,San Diego,3920.0
+New York,San Francisco,4147.0
+New York,Tampa,1621.0
+Los Angeles,Boston,4194.0
+Los Angeles,Charlotte,3416.0
+Los Angeles,Washington,3695.0
+Los Angeles,Denver,1371.0
+Los Angeles,Houston,2219.0
+Los Angeles,New York,3962.0
+Los Angeles,Orlando,3562.0
+Los Angeles,Miami,3749.0
+Los Angeles,Chicago,2810.0
+Los Angeles,Portland,1324.0
+Los Angeles,Philadelphia,3863.0
+Los Angeles,Phoenix,591.0
+Los Angeles,San Diego,199.0
+Los Angeles,Seattle,1522.0
+Los Angeles,San Francisco,530.0
+Los Angeles,St. Louis,2556.0
+New York,Detroit,800.0
+New York,St. Louis,1423.0
+Orlando,Charlotte,749.0
+Orlando,Washington,1218.0
+Orlando,New York,1517.0
+Orlando,Los Angeles,3562.0
+Orlando,Miami,303.0
+Orlando,Chicago,1610.0
+Orlando,Philadelphia,1403.0
+Orlando,Phoenix,2976.0
+Orlando,San Diego,3445.0
+Orlando,Seattle,4103.0
+Miami,Atlanta,955.0
+Miami,Boston,2026.0
+Miami,Baltimore,1531.0
+Miami,Charlotte,1039.0
+Miami,Washington,1478.0
+Miami,Denver,2726.0
+Miami,Detroit,1841.0
+Miami,New York,1755.0
+Miami,Houston,1535.0
+Miami,Los Angeles,3749.0
+Miami,Orlando,303.0
+Miami,Minneapolis,2401.0
+Miami,Chicago,1913.0
+Miami,Philadelphia,1648.0
+Miami,Phoenix,3159.0
+Miami,San Diego,3622.0
+Miami,Seattle,4366.0
+Miami,San Francisco,4140.0
+Miami,St. Louis,1704.0
+Miami,Tampa,303.0
+Minneapolis,Charlotte,1497.0
+Minneapolis,Washington,1480.0
+Minneapolis,Miami,2401.0
+Minneapolis,Chicago,543.0
+Minneapolis,Philadelphia,1575.0
+Minneapolis,Phoenix,2069.0
+Chicago,Atlanta,963.0
+Chicago,Boston,1384.0
+Chicago,Baltimore,998.0
+Chicago,Charlotte,961.0
+Chicago,Washington,957.0
+Chicago,Denver,1445.0
+Chicago,Detroit,372.0
+Chicago,New York,1166.0
+Chicago,Houston,1518.0
+Chicago,Los Angeles,2810.0
+Chicago,Orlando,1610.0
+Chicago,Miami,1913.0
+Chicago,Minneapolis,543.0
+Chicago,Portland,2807.0
+Chicago,Philadelphia,1082.0
+Chicago,Phoenix,2342.0
+Chicago,San Diego,2782.0
+Chicago,San Antonio,1681.0
+Chicago,Seattle,2776.0
+Chicago,San Francisco,2981.0
+Chicago,St. Louis,424.0
+Chicago,Tampa,1636.0
+Portland,Boston,4083.0
+Portland,Charlotte,3672.0
+Portland,Washington,3764.0
+Portland,Los Angeles,1324.0
+Portland,Chicago,2807.0
+Portland,Philadelphia,3870.0
+Portland,Phoenix,1631.0
+Portland,San Diego,1509.0
+Portland,San Francisco,885.0
+Philadelphia,Atlanta,1084.0
+Philadelphia,Boston,435.0
+Philadelphia,Baltimore,146.0
+Philadelphia,Charlotte,738.0
+Philadelphia,Washington,218.0
+Philadelphia,Denver,2513.0
+Philadelphia,Detroit,726.0
+Philadelphia,New York,129.0
+Philadelphia,Houston,2163.0
+Philadelphia,Los Angeles,3863.0
+Philadelphia,Orlando,1403.0
+Philadelphia,Miami,1648.0
+Philadelphia,Minneapolis,1575.0
+Philadelphia,Chicago,1082.0
+Philadelphia,Portland,3870.0
+Philadelphia,Phoenix,3359.0
+Philadelphia,San Diego,3817.0
+Philadelphia,San Antonio,2415.0
+Philadelphia,Seattle,3823.0
+Philadelphia,San Francisco,4060.0
+Philadelphia,St. Louis,1315.0
+Philadelphia,Tampa,1504.0
+Phoenix,Atlanta,2558.0
+Phoenix,Boston,3715.0
+Phoenix,Baltimore,3240.0
+Phoenix,Charlotte,2866.0
+Phoenix,Washington,3179.0
+Phoenix,Denver,973.0
+Phoenix,Detroit,2709.0
+Phoenix,New York,3465.0
+Phoenix,Houston,1628.0
+Phoenix,Los Angeles,591.0
+Phoenix,Orlando,2976.0
+Phoenix,Miami,3159.0
+Phoenix,Minneapolis,2069.0
+Phoenix,Chicago,2342.0
+Phoenix,Portland,1631.0
+Phoenix,Philadelphia,3359.0
+Phoenix,San Diego,475.0
+Phoenix,San Antonio,1363.0
+Phoenix,Seattle,1792.0
+Phoenix,San Francisco,1046.0
+Phoenix,St. Louis,2044.0
+Phoenix,Tampa,2891.0
+San Diego,Boston,4163.0
+San Diego,Charlotte,3339.0
+San Diego,Washington,3642.0
+San Diego,New York,3920.0
+San Diego,Los Angeles,199.0
+San Diego,Orlando,3445.0
+San Diego,Miami,3622.0
+San Diego,Chicago,2782.0
+San Diego,Portland,1509.0
+San Diego,Philadelphia,3817.0
+San Diego,Phoenix,475.0
+San Diego,Seattle,1703.0
+San Antonio,Charlotte,1758.0
+San Antonio,Chicago,1681.0
+San Antonio,Philadelphia,2415.0
+San Antonio,Phoenix,1363.0
+Seattle,Boston,4015.0
+Seattle,Charlotte,3668.0
+Seattle,Denver,1657.0
+Seattle,New York,3881.0
+Seattle,Los Angeles,1522.0
+Seattle,Orlando,4103.0
+Seattle,Miami,4366.0
+Seattle,Chicago,2776.0
+Seattle,Philadelphia,3823.0
+Seattle,Phoenix,1792.0
+Seattle,San Diego,1703.0
+Seattle,San Francisco,1096.0
+Seattle,St. Louis,2751.0
+San Francisco,Charlotte,3695.0
+San Francisco,New York,4147.0
+San Francisco,Los Angeles,530.0
+San Francisco,Miami,4140.0
+San Francisco,Chicago,2981.0
+San Francisco,Portland,885.0
+San Francisco,Philadelphia,4060.0
+San Francisco,Phoenix,1046.0
+San Francisco,Seattle,1096.0
+St. Louis,Charlotte,926.0
+St. Louis,Washington,1139.0
+St. Louis,Los Angeles,2556.0
+St. Louis,New York,1423.0
+St. Louis,Miami,1704.0
+St. Louis,Chicago,424.0
+St. Louis,Philadelphia,1315.0
+St. Louis,Phoenix,2044.0
+St. Louis,Seattle,2751.0
+Tampa,Charlotte,823.0
+Tampa,Washington,1312.0
+Tampa,New York,1621.0
+Tampa,Miami,303.0
+Tampa,Chicago,1636.0
+Tampa,Philadelphia,1504.0
+Tampa,Phoenix,2891.0
+Atlanta,Denver,1919.0
+Denver,Atlanta,1919.0
+Atlanta,Boston,1519.0
+Atlanta,Baltimore,938.0
+Atlanta,Dallas,1176.0
+Atlanta,Washington,866.0
+Atlanta,Detroit,955.0
+Atlanta,New York,1213.0
+Atlanta,Houston,1124.0
+Atlanta,Los Angeles,3123.0
+Atlanta,Orlando,655.0
+Atlanta,Portland,3486.0
+Atlanta,San Diego,3033.0
+Atlanta,San Antonio,1400.0
+Atlanta,Seattle,3501.0
+Atlanta,San Francisco,3434.0
+Atlanta,St. Louis,768.0
+Atlanta,Tampa,672.0
+Boston,Atlanta,1519.0
+Baltimore,Atlanta,938.0
+Dallas,Atlanta,1176.0
+Washington,Atlanta,866.0
+Detroit,Atlanta,955.0
+New York,Atlanta,1213.0
+Houston,Atlanta,1124.0
+Los Angeles,Atlanta,3123.0
+Los Angeles,Minneapolis,2461.0
+Orlando,Atlanta,655.0
+Minneapolis,Los Angeles,2461.0
+Minneapolis,Seattle,2251.0
+Minneapolis,San Francisco,2557.0
+Portland,Atlanta,3486.0
+San Diego,Atlanta,3033.0
+San Antonio,Atlanta,1400.0
+Seattle,Atlanta,3501.0
+San Francisco,Atlanta,3434.0
+St. Louis,Atlanta,768.0
+Tampa,Atlanta,672.0
+Washington,Seattle,3729.0
+Detroit,Portland,3145.0
+Detroit,San Diego,3152.0
+Houston,Seattle,3026.0
+Minneapolis,San Diego,2466.0
+Portland,Detroit,3145.0
+Portland,Seattle,212.0
+San Diego,Detroit,3152.0
+San Diego,Minneapolis,2466.0
+San Antonio,Seattle,2857.0
+Seattle,Washington,3729.0
+Seattle,Houston,3026.0
+Seattle,Minneapolis,2251.0
+Seattle,Portland,212.0
+Seattle,San Antonio,2857.0
+Boston,Baltimore,581.0
+Boston,Denver,2828.0
+Boston,Detroit,1012.0
+Boston,Houston,2590.0
+Boston,Orlando,1803.0
+Boston,San Francisco,4352.0
+Boston,Tampa,1911.0
+Baltimore,Boston,581.0
+Denver,Boston,2828.0
+Denver,New York,2606.0
+Detroit,Boston,1012.0
+Houston,Boston,2590.0
+Houston,New York,2290.0
+New York,Denver,2606.0
+New York,Houston,2290.0
+New York,Portland,3934.0
+Orlando,Boston,1803.0
+Portland,New York,3934.0
+San Francisco,Boston,4352.0
+Tampa,Boston,1911.0
+Houston,San Francisco,2632.0
+Boston,Minneapolis,1809.0
+Baltimore,Detroit,662.0
+Baltimore,Minneapolis,1512.0
+Denver,Detroit,1816.0
+Denver,Minneapolis,1103.0
+Detroit,Baltimore,662.0
+Detroit,Denver,1816.0
+Detroit,Houston,1761.0
+Detroit,Los Angeles,3182.0
+Detroit,Orlando,1543.0
+Detroit,Minneapolis,851.0
+Detroit,San Antonio,1959.0
+Detroit,Seattle,3101.0
+Detroit,San Francisco,3349.0
+Detroit,St. Louis,716.0
+Detroit,Tampa,1596.0
+New York,Minneapolis,1640.0
+Houston,Detroit,1761.0
+Houston,Minneapolis,1684.0
+New York,San Antonio,2539.0
+Los Angeles,Detroit,3182.0
+Los Angeles,Tampa,3479.0
+Orlando,Detroit,1543.0
+Orlando,Minneapolis,2102.0
+Orlando,San Antonio,1666.0
+Minneapolis,Boston,1809.0
+Minneapolis,Baltimore,1512.0
+Minneapolis,Denver,1103.0
+Minneapolis,Detroit,851.0
+Minneapolis,New York,1640.0
+Minneapolis,Houston,1684.0
+Minneapolis,Orlando,2102.0
+Minneapolis,Portland,2295.0
+Minneapolis,San Antonio,1761.0
+Minneapolis,St. Louis,721.0
+Minneapolis,Tampa,2110.0
+Portland,Minneapolis,2295.0
+San Antonio,Detroit,1959.0
+San Antonio,New York,2539.0
+San Antonio,Orlando,1666.0
+San Antonio,Minneapolis,1761.0
+Seattle,Detroit,3101.0
+San Francisco,Detroit,3349.0
+San Francisco,Minneapolis,2557.0
+St. Louis,Detroit,716.0
+St. Louis,Minneapolis,721.0
+Tampa,Detroit,1596.0
+Tampa,Los Angeles,3479.0
+Tampa,Minneapolis,2110.0
+Washington,Denver,2359.0
+Denver,Washington,2359.0
+Denver,Houston,1388.0
+Denver,Orlando,2477.0
+Denver,Portland,1601.0
+Denver,San Diego,1364.0
+Denver,San Francisco,1554.0
+Denver,St. Louis,1240.0
+Denver,Tampa,2426.0
+Houston,Denver,1388.0
+Orlando,Denver,2477.0
+Portland,Denver,1601.0
+San Diego,Denver,1364.0
+San Francisco,Denver,1554.0
+St. Louis,Denver,1240.0
+Tampa,Denver,2426.0
+Baltimore,Denver,2412.0
+Baltimore,Los Angeles,3752.0
+Baltimore,Orlando,1276.0
+Baltimore,San Diego,3702.0
+Baltimore,San Antonio,2273.0
+Baltimore,St. Louis,1198.0
+Baltimore,Tampa,1373.0
+Dallas,Houston,363.0
+Dallas,San Antonio,379.0
+Dallas,Seattle,2682.0
+Dallas,San Francisco,2360.0
+Dallas,St. Louis,897.0
+Denver,Baltimore,2412.0
+Denver,San Antonio,1265.0
+Houston,Baltimore,2020.0
+Houston,Dallas,363.0
+Houston,Orlando,1375.0
+Houston,San Antonio,292.0
+Houston,Tampa,1278.0
+Orlando,Baltimore,1276.0
+Orlando,Houston,1375.0
+Orlando,St. Louis,1411.0
+San Diego,Baltimore,3702.0
+San Diego,Houston,2087.0
+San Diego,San Antonio,1813.0
+San Antonio,Baltimore,2273.0
+San Antonio,Dallas,379.0
+San Antonio,Denver,1265.0
+San Antonio,Houston,292.0
+San Antonio,Los Angeles,1953.0
+San Antonio,St. Louis,1260.0
+San Antonio,Tampa,1566.0
+Seattle,Baltimore,3762.0
+St. Louis,Baltimore,1198.0
+St. Louis,Dallas,897.0
+St. Louis,San Antonio,1260.0
+St. Louis,Tampa,1406.0
+Tampa,Baltimore,1373.0
+Tampa,Houston,1278.0
+Tampa,Portland,4025.0
+Tampa,San Antonio,1566.0
+Tampa,Seattle,4064.0
+Tampa,St. Louis,1406.0
+Baltimore,Houston,2020.0
+Baltimore,San Francisco,3963.0
+Washington,Houston,1948.0
+Washington,San Francisco,3912.0
+Washington,San Antonio,2202.0
+Houston,Washington,1948.0
+Houston,Portland,2944.0
+Houston,San Diego,2087.0
+Houston,St. Louis,1095.0
+Los Angeles,Baltimore,3752.0
+Los Angeles,San Antonio,1953.0
+Orlando,San Francisco,3929.0
+Portland,Houston,2944.0
+San Diego,San Francisco,728.0
+San Antonio,Washington,2202.0
+San Antonio,San Francisco,2386.0
+San Francisco,Baltimore,3963.0
+San Francisco,Washington,3912.0
+San Francisco,Houston,2632.0
+San Francisco,Orlando,3929.0
+San Francisco,San Diego,728.0
+San Francisco,San Antonio,2386.0
+San Francisco,St. Louis,2793.0
+St. Louis,Houston,1095.0
+St. Louis,San Francisco,2793.0
+Boston,St. Louis,1684.0
+Baltimore,Seattle,3762.0
+San Diego,St. Louis,2504.0
+San Antonio,San Diego,1813.0
+St. Louis,Boston,1684.0
+St. Louis,Orlando,1411.0
+St. Louis,San Diego,2504.0
